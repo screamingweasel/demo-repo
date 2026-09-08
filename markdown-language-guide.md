@@ -28,7 +28,7 @@ Headings use `#` symbols. More `#` symbols mean smaller headings.
    2. Sub-step B
 3. Third step
 
-## Code
+##  Code Snippets
 
 Use backticks for `inline code` like variable names or commands.
 
@@ -46,7 +46,7 @@ def greet(name):
     return f"Hello, {name}!"
 ```
 
-
+---
 
 ## Text Formatting
 
@@ -74,5 +74,8 @@ You can make text **bold** with double asterisks, *italic* with single asterisks
 - Inline link: [Snowflake Documentation](https://docs.snowflake.com)
 - Reference-style link: [Markdown Guide][1]
 - Bare URL: https://github.com
+
+## Images
+- ![A cute puppy]([https://puppy.jpeg)
 
 [1]: https://www.markdownguide.org
