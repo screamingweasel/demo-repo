@@ -1,3 +1,1 @@
 # demo-repo
-
-Hello Git!
