@@ -1,3 +1,5 @@
 # demo-repo
 
-Blah, Blah, Blah!
+This is a repo.
+Oh, Yes it is!
+It is a great repo!
